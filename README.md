@@ -11,3 +11,5 @@ repositório da [API de Checkout](https://github.com/rusouza/checkout)
 
 - Typescript
 - Express
+- Mysql
+- Swagger
