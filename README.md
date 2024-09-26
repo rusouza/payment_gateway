@@ -14,3 +14,4 @@ Foram criados 2 repositórios:
 - Express
 - Mysql
 - Swagger
+- Jest
