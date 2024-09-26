@@ -8,7 +8,6 @@ export class PaymentService {
 
     async processPayment(checkoutId: number, isConfirmed: boolean, payment: Payment) {
         try {
-            console.log('aqui 1')
             const checkout: any = await this.getCheckoutById(checkoutId);
             
             if(!checkout) {
