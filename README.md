@@ -2,7 +2,7 @@
 
 #### _Objetivo_
 
-Este é um projeto de um teste prático que consiste na criação de um pedido de compra e depois do pagamento do mesmo.
+Este é um projeto que consiste na criação de um pedido de compra e depois do pagamento do mesmo.
 
 Foram criados 2 repositórios:
 - [API de Checkout](https://github.com/rusouza/checkout).
